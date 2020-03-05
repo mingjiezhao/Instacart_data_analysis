@@ -1,6 +1,6 @@
-This data analysis is created based on the data from Kaggle's Instacart Market Basket Analysis, aims to provide business insights with data science techniques.
+## This data analysis is created based on the data from Kaggle's Instacart Market Basket Analysis, aims to provide business insights with data science techniques.
 
-This analysis includes 3 parts to answer multiple key questions:
+### This analysis includes 3 parts to answer multiple key questions:
 
 1) Sales analysis
 
@@ -22,7 +22,7 @@ What is the most popular department?
 
 What is the most popular aisle?
 
-Key findings:
+### Key findings:
 -Best day and time for sale events: 1st and 2nd day of the week, 3pm
 
 -Best day and time to attract new customers: 1st day of the week, 10am-3pm
@@ -36,4 +36,4 @@ Key findings:
 -People love organic products!
 
 
-Ref: https://www.kaggle.com/c/instacart-market-basket-analysis
+### Ref: https://www.kaggle.com/c/instacart-market-basket-analysis
