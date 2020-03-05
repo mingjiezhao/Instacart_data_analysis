@@ -1,20 +1,25 @@
-This data analysis is created based on the data from Kaggle's Instacart Market Basket Analysis
-
-The data analysis aims to provide business insights with data science techniques.
+This data analysis is created based on the data from Kaggle's Instacart Market Basket Analysis, aims to provide business insights with data science techniques.
 
 This analysis includes 3 parts to answer multiple key questions:
 
 1) Sales analysis
+
 What is the peak day and time of orders?
+
 When do people order again?
 
 2) Customer analysis
+
 Any differences in new customer group and existing customer group?
 
-3)Orders analysis
+3) Orders analysis
+
 what is the most common thing people get into the cart?
+
 what is the most common thing people reorder?
+
 What is the most popular department?
+
 What is the most popular aisle?
 
 Key findings:
